@@ -2,6 +2,8 @@
 
 doi: `10.1002/9780471729259.mc13c01s9`
 
+To 1-litre distilled water add:
+
 - Typtone: 20-g
 - Yeast Extract: 10-g
 - Glucose: 5-g
