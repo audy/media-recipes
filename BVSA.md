@@ -1,7 +1,5 @@
 # Bacteroides vulgatus Selective Agar
 
-source: http://www.anaerobesystems.com/Home/pras-mono-plated-media/Bacteroides-Vulgatus-Selective-Agar
-
 Add to 1L of distilled water:
 
 - Pancreatic Digest of Casein: 10.0-g
@@ -23,3 +21,5 @@ Final Mass: 16.0-g +/- 1.6
 - Kanamycin: 200-mg
 - Vancomycin: 7.5-mg
 - Colistin: 0.015-mg
+
+source: http://www.anaerobesystems.com/Home/pras-mono-plated-media/Bacteroides-Vulgatus-Selective-Agar

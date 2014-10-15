@@ -7,5 +7,5 @@ to find online or when you do find them, they're inconsistent.
 
 ## Contributing
 
-If you found the recipe in a document, please add the DOI at the top of the
+If you found the recipe in a document, please add the DOI at the bottom of the
 markdown file.

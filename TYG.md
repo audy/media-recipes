@@ -1,7 +1,5 @@
 # Tryptone Yeast Glucose
 
-doi: `10.1002/9780471729259.mc13c01s9`
-
 To 1-litre distilled water add:
 
 - Typtone: 20-g
@@ -28,3 +26,5 @@ To 1-litre distilled water add:
 "All of the components except NaHCO3 are added to 930 ml of H2O. Then adjust pH
 to 7.0, and autoclave for 20 min. When media has cooled to 55°C add sodium
 bicarbonate solution."
+
+doi: `10.1002/9780471729259.mc13c01s9`
