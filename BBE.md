@@ -11,6 +11,8 @@ To make 1.0 L
   - bring volume up to 100.0-mL with distilled water
   - autoclave at 121C for 15 minutes, store at 4C
 
+- 2.5-mL of 40-mg/mL Gentamicin
+
 - pH to 7.0
 - Autoclave at 121C for 15 minutes.
 
