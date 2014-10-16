@@ -10,10 +10,10 @@ There are two versions of this recipe. The ATCC one is older.
 - Distilled Water: 970-ml
 - Agar (as required): 15.0-g
 
+Dissolve all dry ingredients in water, then add hemin and resazurin solutions.
 
-- Dissolve all dry ingredients in water, then add hemin and resazurin solutions.
-- Do not add the `NaHCO3` solution before autoclaving as it will be converted to
-  `CO2` and lost from the media.
+Do not add the `NaHCO3` solution before autoclaving as it will be converted to
+`CO2` and lost from the media.
 
 doi: `10.1002/9780471729259.mc13c01s9`
 
