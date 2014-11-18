@@ -7,7 +7,7 @@ Add to 1L of distilled water:
 - NaCl: 5.0-g
 - Agar: 15.0-g
 - Yeast Extract: 2.0-g
-- Oxgall (Ox Bile): 20.0-g
+- Oxgall (Difco) 2.0 or 20.0 g Ox Bile
 - Esculin: 1.0-g
 - Ferric Ammonium Citrate: 0.5-g
 - Hemin (0.1% sol'n): 10.0-mL
