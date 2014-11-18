@@ -2,7 +2,7 @@
 
 To make 1.0 L
 
-- Oxgall: 20.0-g
+- Oxgall: 2.0-g or 20.0-g Ox Bile (Bakir et al., 2006) 
 - Trypticase Soy Agar: 40.0-g
 - Esculin: 1.0-g
 - Ferric Ammonium Citrate: 0.5-g
